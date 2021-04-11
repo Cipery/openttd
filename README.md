@@ -66,3 +66,5 @@ and it will apply configmap with openttd.cfg, deployment and service listening o
 
 ## Other tags ##
    * See [bateau/openttd](https://hub.docker.com/r/bateau/openttd) on docker hub for other tags
+
+Trigger pipeline
